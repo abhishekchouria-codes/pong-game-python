@@ -28,14 +28,23 @@ pong-game-python/
 
 ---
 
-### 3. Technologies Used
-- Python 3
-- Turtle Graphics – for rendering and visuals
-- Object-Oriented Programming (OOP) principles
+### 3. Features
+- Two-player paddle control for competitive play  
+- Ball movement with realistic bounce mechanics  
+- Collision detection with paddles and walls  
+- Scoreboard to track points for each player  
+- Lightweight, beginner-friendly arcade recreation  
 
 ---
 
-### 4. Controls
+### 4. Technologies Used
+- Python 3  
+- Turtle Graphics – for rendering and visuals  
+- Object-Oriented Programming (OOP) principles  
+
+---
+
+### 5. Controls
 - Player A: Use **W** (up) and **S** (down) keys to move the left paddle  
 - Player B: Use **Up Arrow** and **Down Arrow** keys to move the right paddle  
-- Ball bounces automatically; score increases when the opponent misses
+- Ball bounces automatically; score increases when the opponent misses  
